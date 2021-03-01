@@ -1,5 +1,4 @@
-[![WGUdacity](https://circleci.com/gh/WilliamGeuns1/effective-octo-pancake.svg?style=svg)](<LINK>)
-
+[![WGUdacity](https://circleci.com/gh/WilliamGeuns1/effective-octo-pancake.svg?style=svg)](https://app.circleci.com/pipelines/github/WilliamGeuns1/effective-octo-pancake)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
