@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![WGUdacity](https://circleci.com/gh/WilliamGeuns1/effective-octo-pancake.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
